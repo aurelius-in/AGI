@@ -1,4 +1,4 @@
-# AGI# Project Proposal: Integrating GPT-4 API for Artificial General Intelligence (AGI)
+# Project Proposal: Integrating GPT-4 API for Artificial General Intelligence (AGI)
 
 ## Introduction:
 Artificial Intelligence (AI) has become an increasingly important field of study in recent years, with rapid advancements in machine learning, natural language processing, and other areas. However, current AI systems are limited in their ability to perform tasks that require reasoning, creativity, and common sense. To overcome these limitations, we propose to integrate the GPT-4 API for Artificial General Intelligence into our system.
